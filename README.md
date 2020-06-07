@@ -3,6 +3,8 @@
 ## Code Walk-through & Learning resources links
 **YouTube: https://www.youtube.com/channel/UCRBcEf9i_Iq6hbl6T3h0QHA**
 
+Disclaimer: This repository is for research purposes only, the use of this code is your responsibility. I take NO responsibility ... AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.
+
 *THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
